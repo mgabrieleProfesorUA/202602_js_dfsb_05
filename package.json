@@ -1,0 +1,24 @@
+{
+  "name": "202602_js_dfsb_05",
+  "version": "1.0.0",
+  "description": "Ciclo 2026-02 Curso  Laboratorio de backend inteligente y apis autónomas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgabrieleProfesorUA/202602_js_dfsb_05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_05/issues"
+  },
+  "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_05#readme",
+  "dependencies": {
+    "mssql": "^12.7.6"
+  }
+}
