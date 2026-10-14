@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_05#readme",
   "dependencies": {
-    "mssql": "^12.7.6"
+    "msnodesqlv8": "^5.6.0",
+    "mssql": "^12.7.6",
+    "tedious": "^20.3.7"
   }
 }
